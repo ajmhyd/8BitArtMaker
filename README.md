@@ -10,7 +10,3 @@
 2. Pick a grid width and height.
 3. Choose a color.
 4. Begin drawing with the mouse by clicking or dragging
-
-## Contributing
-
-
